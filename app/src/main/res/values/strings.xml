@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Preferencia do Usuario</string>
+    <string name="whats_your_name">What´s your name?</string>
+    <string name="type_your_name_here">Type your name here.</string>
+    <string name="save">Save</string>
+    <string name="hi_user_not_Definied">Hello, user not definied!</string>
+</resources>
